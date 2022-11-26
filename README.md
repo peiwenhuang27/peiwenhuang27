@@ -10,4 +10,5 @@
 
 💞️ Amateur Artist/Singer/Photagrapher
 
-I aim to promote mental health and emotional wellness with my comprehensive technical skillset, communication skills and a keen perception. 
+I aim to promote mental health and emotional wellness with my comprehensive technical skillset,<br/>
+communication skills and a keen perception. 

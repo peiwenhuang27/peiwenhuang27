@@ -1,24 +1,24 @@
-# Hi! I'm Pei-Wen (Joanne) Huang 🥳
+## About
+[View My Portfolio](peiwenhuang27.github.io)
 
-### About Me | [Portfolio](peiwenhuang27.github.io)
+🎓  B.B.A. in Information Management from National Taiwan University
 
-🎓 B.B.A. in Information Management from National Taiwan University
-
-💡 Data Scientist
+💡  Data Scientist
 
 💻 Frontend Developer
 
 🎨 UX/UI/Graphic Designer
 
-### My Goal
-
-I aim to promote mental health and emotional wellness with my comprehensive technical skillset, communication skills and a keen perception. 
-
-### A Little TMI But...
-
 🌱 Lover of Nature
 
 💞️ Amateur Artist/Singer/Photagrapher
+
+
+
+I aim to promote mental health and emotional wellness with my comprehensive technical skillset, communication skills and a keen perception. 
+
+
+
 
 
 ### Contact

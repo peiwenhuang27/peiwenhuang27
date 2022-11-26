@@ -1,4 +1,4 @@
-🎓  B.B.A. in Information Management from National Taiwan University
+🎓  B.B.A. in Information Management at National Taiwan University
 
 💡  Data Scientist
 
